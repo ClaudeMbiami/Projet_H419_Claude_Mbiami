@@ -94,7 +94,7 @@ pip install tensorflow scikit-learn matplotlib
 Utilisation
 
 Cloner le dépôt :
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/ClaudeMbiami/Projet_H419_Claude_Mbiami/blob/main/projet-h-419-claude-mbiami.ipynb
 cd REPO_NAME
 
 Placer les données :
