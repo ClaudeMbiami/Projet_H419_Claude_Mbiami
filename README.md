@@ -74,12 +74,6 @@ COVID-19	1.00	0.87	0.93
 Normal	0.83	0.94	0.88
 Virus	0.88	0.84	0.86
 
-Rapport Matrix de confusion
-                 Image réelle	Prédiction modèle
- COVID-19:          30              26
- Normal:            48              45
- Virus non-COVID    44              37
-
 6) Environnement et Librairies
 Python 3.x
 
